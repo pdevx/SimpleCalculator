@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\bin\SimpleCalculator.dll.config
+c:\users\user\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\bin\SimpleCalculator.dll
+c:\users\user\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\bin\SimpleCalculator.pdb
+c:\users\user\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.dll
+c:\users\user\documents\visual studio 2013\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
